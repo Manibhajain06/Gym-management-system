@@ -1,1 +1,2 @@
-# Gym-management-system
+
+The purpose of the Gym Management System is to simplify and automate gym operations through a software application. This system stores information about gym members, schedules fitness classes, manages staff details, and tracks inventory. Users can manage memberships, view and sign up for classes, and keep track of staff schedules and performance. The system also ensures efficient inventory management, keeping track of equipment and supplies. Overall, it enhances the efficiency of gym management by automating routine tasks and providing easy access to important data.
